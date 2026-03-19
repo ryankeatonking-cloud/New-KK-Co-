@@ -2,8 +2,8 @@
   "name": "keaton-king-site",
   "private": true,
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
+    "dev": "next dev",
     "start": "next start"
   },
   "dependencies": {
@@ -12,6 +12,3 @@
     "react-dom": "18.2.0"
   }
 }
-git add .
-git commit -m "force homepage fix"
-git push
