@@ -11,3 +11,6 @@ export default function Home() {
 git add .
 git commit -m "fix homepage"
 git push
+export default function Home() {
+  return <h1>Keaton King & Co is LIVE</h1>;
+}
