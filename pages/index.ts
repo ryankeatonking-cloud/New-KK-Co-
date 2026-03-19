@@ -19,3 +19,10 @@ import KeatonKingSite from "../components/KeatonKingSite";
 export default function Home() {
   return <KeatonKingSite />;
 }
+export default function Home() {
+  return (
+    <div style={{ padding: 40 }}>
+      <h1>Keaton King & Co is LIVE</h1>
+    </div>
+  );
+}
